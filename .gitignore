@@ -1,0 +1,49 @@
+# Build-Ergebnisse
+bin/
+obj/
+
+# User-spezifische Dateien
+*.user
+*.userosscache
+*.suo
+
+# Rider/JetBrains
+.idea/
+
+# Visual Studio spezifisch
+.vs/
+
+# Visual Studio Code spezifisch
+.vscode/
+
+# ASP.NET secrets (wenn je verwendet)
+secrets.json
+
+# Paketverwaltung
+*.nupkg
+*.snupkg
+packages/
+*.lock.json
+project.lock.json
+
+# Log-Dateien
+*.log
+
+# Dump-Dateien
+*.dmp
+
+# Temporäre Dateien
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Sonstige Tool-Verzeichnisse
+TestResults/
+.nuget/
+.cache/
