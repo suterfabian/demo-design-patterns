@@ -1,4 +1,4 @@
-namespace ch.px.designpattern.Modul02;
+namespace ch.px.designpattern.Memento.GoodSolution;
 
 // Originator
 public class Editor

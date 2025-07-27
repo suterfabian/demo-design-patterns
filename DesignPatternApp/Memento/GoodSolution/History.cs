@@ -1,4 +1,4 @@
-namespace ch.px.designpattern.Modul02;
+namespace ch.px.designpattern.Memento.GoodSolution;
 
 public class History
 {

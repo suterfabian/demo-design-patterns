@@ -1,6 +1,6 @@
-﻿namespace ch.px.designpattern.Modul03;
+﻿namespace ch.px.designpattern.StatePattern.BadSolution;
 
-public class BadDocument
+public class Document
 {
     public DocumentStates State { get; set; }
     public UserRoles CurrentUserRole { get; set; }

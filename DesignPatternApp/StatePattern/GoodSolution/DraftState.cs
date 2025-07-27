@@ -1,4 +1,4 @@
-﻿namespace ch.px.designpattern.Modul03;
+﻿namespace ch.px.designpattern.StatePattern.GoodSolution;
 
 internal class DraftState : IState
 {

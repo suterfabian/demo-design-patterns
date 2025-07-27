@@ -4,7 +4,7 @@ internal static class Start
 {
     public static void Run()
     {
-        Console.WriteLine("Template Method Pattern - Good Solution");
+        Console.WriteLine("Template Method Pattern - Strategy Pattern Solution");
 
         var tea = new Tea();
         tea.Prepare();
