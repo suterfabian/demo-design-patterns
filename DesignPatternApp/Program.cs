@@ -19,7 +19,21 @@
             // --------------------------------------------------
 
             // StatePattern.BadSolution.Start.Run();
-            StatePattern.GoodSolution.Start.Run();
+            // StatePattern.GoodSolution.Start.Run();
+
+            // --------------------------------------------------
+            // Observer Pattern - behavioural
+            // --------------------------------------------------
+            // Observer.BadSolution.Start.Run();
+            // Observer.GoodSolution.Start.Run();
+            // Observer.GoodSolutionPull.Start.Run();
+            // Observer.GoodSolutionPush.Start.Run();
+
+            // --------------------------------------------------
+            // Template method Pattern - behavioural
+            // --------------------------------------------------
+            // Mediator.BadSolution.Start.Run();
+            // Mediator.GoodSolution.Start.Run();
 
             // Strategy Pattern - behavioural - Module04
             // 03:00:30
