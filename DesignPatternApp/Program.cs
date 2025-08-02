@@ -32,8 +32,7 @@
             // --------------------------------------------------
             // Template method Pattern - behavioural
             // --------------------------------------------------
-            // Mediator.BadSolution.Start.Run();
-            // Mediator.GoodSolution.Start.Run();
+            Mediator.GoodSolution.Start.Run();
 
             // Strategy Pattern - behavioural - Module04
             // 03:00:30
