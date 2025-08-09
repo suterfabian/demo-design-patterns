@@ -32,7 +32,7 @@
             // --------------------------------------------------
             // Template method Pattern - behavioural
             // --------------------------------------------------
-            Mediator.GoodSolution.Start.Run();
+            // Mediator.GoodSolution.Start.Run();
 
             // Strategy Pattern - behavioural - Module04
             // 03:00:30
@@ -55,6 +55,22 @@
 
             // ChainOfResponsibilty.BadSolution.Start.Run();
             // ChainOfResponsibilty.GoodSolution.Start.Run();
+
+            // ==================================================
+            // Structural Patterns
+            // ==================================================
+
+            // --------------------------------------------------
+            // Composit pattern - structural pattern
+            // --------------------------------------------------
+
+            // Composite.BadSolution.Start.Run();
+            // Composite.GoodSolution.Start.Run();
+
+            // --------------------------------------------------
+            // Adapter pattern - structural pattern
+            // --------------------------------------------------
+            Adapter.GoodSolution.Start.Run();
         }
     }
 }
