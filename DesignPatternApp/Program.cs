@@ -70,7 +70,23 @@
             // --------------------------------------------------
             // Adapter pattern - structural pattern
             // --------------------------------------------------
-            Adapter.GoodSolution.Start.Run();
+            // Adapter.GoodSolution.Start.Run();
+
+            // --------------------------------------------------
+            // Bridge pattern - structural pattern
+            // --------------------------------------------------
+
+            // Bridge.BadSolution.Start.Run();
+            // Bridge.GoodSolution.Start.Run();
+
+            // --------------------------------------------------
+            // Proxy pattern - structural pattern
+            // --------------------------------------------------
+
+            // Proxy.BadSolution.Start.Run();
+            Proxy.GoodSolution.Start.Run();
+
+
         }
     }
 }
