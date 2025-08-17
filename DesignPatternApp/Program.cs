@@ -84,9 +84,14 @@
             // --------------------------------------------------
 
             // Proxy.BadSolution.Start.Run();
-            Proxy.GoodSolution.Start.Run();
+            // Proxy.GoodSolution.Start.Run();
 
+            // --------------------------------------------------
+            // Flyweight pattern - structural pattern
+            // --------------------------------------------------
 
+            // Flyweight.BadSolution.Start.Run();
+            Flyweight.GoodSolution.Start.Run();
         }
     }
 }
