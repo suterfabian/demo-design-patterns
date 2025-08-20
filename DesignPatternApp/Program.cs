@@ -64,34 +64,69 @@
             // Composit pattern - structural pattern
             // --------------------------------------------------
 
-            // Composite.BadSolution.Start.Run();
-            // Composite.GoodSolution.Start.Run();
+            // Structural.Composite.BadSolution.Start.Run();
+            // Structural.Composite.GoodSolution.Start.Run();
 
             // --------------------------------------------------
             // Adapter pattern - structural pattern
             // --------------------------------------------------
-            // Adapter.GoodSolution.Start.Run();
+
+            // Structural.Adapter.GoodSolution.Start.Run();
 
             // --------------------------------------------------
             // Bridge pattern - structural pattern
             // --------------------------------------------------
 
-            // Bridge.BadSolution.Start.Run();
-            // Bridge.GoodSolution.Start.Run();
+            // Structural.Bridge.BadSolution.Start.Run();
+            // Structural.Bridge.GoodSolution.Start.Run();
 
             // --------------------------------------------------
             // Proxy pattern - structural pattern
             // --------------------------------------------------
 
-            // Proxy.BadSolution.Start.Run();
-            // Proxy.GoodSolution.Start.Run();
+            // Structural.Proxy.BadSolution.Start.Run();
+            // Structural.Proxy.GoodSolution.Start.Run();
 
             // --------------------------------------------------
             // Flyweight pattern - structural pattern
             // --------------------------------------------------
 
-            // Flyweight.BadSolution.Start.Run();
-            Flyweight.GoodSolution.Start.Run();
+            // Structural.Flyweight.BadSolution.Start.Run();
+            // Structural.Flyweight.GoodSolution.Start.Run();
+
+            // --------------------------------------------------
+            // Facade pattern - structural pattern
+            // --------------------------------------------------
+
+            // Structural.Facade.BadSolution.Start.Run();
+            // Structural.Facade.GoodSolution.Start.Run();
+
+            // --------------------------------------------------
+            // Decorator pattern - structural pattern
+            // --------------------------------------------------
+
+            Structural.Decorator.BadSolution.Start.Run();
+            Structural.Decorator.GoodSolution.Start.Run();
+
+            // ==================================================
+            // Creational Patterns
+            // ==================================================
+
+            // --------------------------------------------------
+            // Prototype pattern - structural pattern
+            // --------------------------------------------------
+
+            // Creational.Prototype.BadSolution.Start.Run();
+            // Creational.Prototype.GoodSolution.Start.Run();
+
+            // --------------------------------------------------
+            // Singleton pattern - structural pattern
+            // --------------------------------------------------
+
+            // Creational.Singleton.BadSolution.Start.Run();
+            // Creational.Singleton.GoodSolution.Start.Run();
+
+
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace ch.px.designpattern.VORLAGE.GoodSolution;
+﻿namespace ch.px.designpattern.Creational.VORLAGE.GoodSolution;
 
 public static class Start
 {

@@ -1,4 +1,4 @@
-﻿namespace ch.px.designpattern.VORLAGE.BadSolution;
+﻿namespace ch.px.designpattern.Creational.VORLAGE.BadSolution;
 
 public static class Start
 {
