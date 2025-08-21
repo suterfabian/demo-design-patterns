@@ -12,27 +12,37 @@
             // Memento Pattern - behavioural
             // --------------------------------------------------
 
-            // Memento.GoodSolution.Start.Run();
+            // Behavioral.Memento.GoodSolution.Start.Run();
 
             // --------------------------------------------------
             // State Pattern - behavioural
             // --------------------------------------------------
 
-            // StatePattern.BadSolution.Start.Run();
-            // StatePattern.GoodSolution.Start.Run();
+            // Behavioral.StatePattern.BadSolution.Start.Run();
+            // Behavioral.StatePattern.GoodSolution.Start.Run();
 
             // --------------------------------------------------
             // Observer Pattern - behavioural
             // --------------------------------------------------
-            // Observer.BadSolution.Start.Run();
-            // Observer.GoodSolution.Start.Run();
-            // Observer.GoodSolutionPull.Start.Run();
-            // Observer.GoodSolutionPush.Start.Run();
+
+            // Behavioral.Observer.BadSolution.Start.Run();
+            // Behavioral.Observer.GoodSolution.Start.Run();
+            // Behavioral.Observer.GoodSolutionPull.Start.Run();
+            // Behavioral.Observer.GoodSolutionPush.Start.Run();
 
             // --------------------------------------------------
             // Template method Pattern - behavioural
             // --------------------------------------------------
-            // Mediator.GoodSolution.Start.Run();
+
+            // Behavioral.TemplateMethod.BadSolution.Start.Run();
+            // Behavioral.TemplateMethod.GoodSolution.Start.Run();
+            // Behavioral.TemplateMethod.StrategyPattern.Start.Run();
+
+            // --------------------------------------------------
+            // Mediator Pattern - behavioural
+            // --------------------------------------------------
+
+            // Behavioral.Mediator.GoodSolution.Start.Run();
 
             // Strategy Pattern - behavioural - Module04
             // 03:00:30
@@ -53,8 +63,8 @@
             // Chain Of Responsibilty pattern - behavioural
             // --------------------------------------------------
 
-            // ChainOfResponsibilty.BadSolution.Start.Run();
-            // ChainOfResponsibilty.GoodSolution.Start.Run();
+            // Behavioral.ChainOfResponsibilty.BadSolution.Start.Run();
+            // Behavioral.ChainOfResponsibilty.GoodSolution.Start.Run();
 
             // ==================================================
             // Structural Patterns
@@ -105,8 +115,8 @@
             // Decorator pattern - structural pattern
             // --------------------------------------------------
 
-            Structural.Decorator.BadSolution.Start.Run();
-            Structural.Decorator.GoodSolution.Start.Run();
+            // Structural.Decorator.BadSolution.Start.Run();
+            // Structural.Decorator.GoodSolution.Start.Run();
 
             // ==================================================
             // Creational Patterns
@@ -125,6 +135,13 @@
 
             // Creational.Singleton.BadSolution.Start.Run();
             // Creational.Singleton.GoodSolution.Start.Run();
+
+            // --------------------------------------------------
+            // Factory method pattern - structural pattern
+            // --------------------------------------------------
+
+            // Creational.FactoryMethod.BadSolution.Start.Run();
+            // Creational.FactoryMethod.GoodSolution.Start.Run();
 
 
         }
