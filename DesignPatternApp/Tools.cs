@@ -1,5 +1,3 @@
-using System;
-
 namespace ch.px.designpattern;
 
 public static class Tools
