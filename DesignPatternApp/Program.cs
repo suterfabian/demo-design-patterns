@@ -144,6 +144,15 @@
             // Creational.FactoryMethod.GoodSolution.Start.Run();
 
 
+
+
+            // --------------------------------------------------
+            // Builder pattern - structural pattern
+            // --------------------------------------------------
+
+            // Creational.Builder.BadSolution.Start.Run();
+            // Creational.Builder.GoodSolution.Start.Run();
+            Creational.Builder.GoodSolutionDirector.Start.Run();
         }
     }
 }
