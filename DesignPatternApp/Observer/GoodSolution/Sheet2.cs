@@ -2,7 +2,6 @@
 
 internal class Sheet2 : IObserver
 {
-    private int _total;
     private DataSource _dataSource;
 
     public Sheet2(DataSource dataSource)
@@ -12,7 +11,7 @@ internal class Sheet2 : IObserver
 
     public void Update()
     {
-        _total = CalculateTotal(_dataSource.GetValues());
+        _ = CalculateTotal(_dataSource.GetValues());
     }
 
     private static int CalculateTotal(List<int> values)
