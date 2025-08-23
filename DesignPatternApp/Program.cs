@@ -63,14 +63,14 @@ internal class Program
         // --------------------------------------------------
 
         // Behavioral.ChainOfResponsibilty.BadSolution.Start.Run();
-        // Behavioral.ChainOfResponsibilty.GoodSolution.Start.Run();
+        Behavioral.ChainOfResponsibilty.GoodSolution.Start.Run();
 
         // --------------------------------------------------
         // Visitor Pattern - behavioural
         // --------------------------------------------------
 
         // Behavioral.Visitor.BadSolution.Start.Run();
-        Behavioral.Visitor.GoodSolution.Start.Run();
+        // Behavioral.Visitor.GoodSolution.Start.Run();
 
         // --------------------------------------------------
         // Interpreter Pattern - behavioural
