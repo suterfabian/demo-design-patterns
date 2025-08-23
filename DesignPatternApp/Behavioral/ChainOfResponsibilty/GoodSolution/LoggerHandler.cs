@@ -1,6 +1,6 @@
 ﻿namespace ch.px.designpattern.Behavioral.ChainOfResponsibilty.GoodSolution;
 
-public class Logger : Handler
+public class LoggerHandler : Handler
 {
     public override bool DoHandle(HttpRequest request)
     {

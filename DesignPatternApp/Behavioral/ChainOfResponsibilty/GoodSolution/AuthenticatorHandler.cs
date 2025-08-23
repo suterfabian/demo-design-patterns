@@ -1,6 +1,6 @@
 ﻿namespace ch.px.designpattern.Behavioral.ChainOfResponsibilty.GoodSolution;
 
-public class Authenticator : Handler
+public class AuthenticatorHandler : Handler
 {
     public override bool DoHandle(HttpRequest request)
     {

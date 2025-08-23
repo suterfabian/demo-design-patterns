@@ -1,6 +1,6 @@
 ﻿namespace ch.px.designpattern.Behavioral.ChainOfResponsibilty.GoodSolution;
 
-public class Validator : Handler
+public class ValidatorHandler : Handler
 {
     public override bool DoHandle(HttpRequest request)
     {

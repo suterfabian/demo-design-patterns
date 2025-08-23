@@ -6,9 +6,9 @@ public static class Start
     {
         Console.WriteLine("Chain Of Responsibilty Pattern - Good Solution");
 
-        var validator = new Validator();
-        var authenticator = new Authenticator();
-        var logger = new Logger();
+        var validator = new ValidatorHandler();
+        var authenticator = new AuthenticatorHandler();
+        var logger = new LoggerHandler();
 
         validator
             .SetNextHandler(authenticator)
