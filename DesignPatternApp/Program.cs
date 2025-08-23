@@ -66,6 +66,13 @@
             // Behavioral.ChainOfResponsibilty.BadSolution.Start.Run();
             // Behavioral.ChainOfResponsibilty.GoodSolution.Start.Run();
 
+            // --------------------------------------------------
+            // Interpreter Pattern - behavioural
+            // --------------------------------------------------
+
+            Behavioral.Interpreter.BadSolution.Start.Run();
+            Behavioral.Interpreter.GoodSolution.Start.Run();
+
             // ==================================================
             // Structural Patterns
             // ==================================================
@@ -152,7 +159,7 @@
 
             // Creational.Builder.BadSolution.Start.Run();
             // Creational.Builder.GoodSolution.Start.Run();
-            Creational.Builder.GoodSolutionDirector.Start.Run();
+            // Creational.Builder.GoodSolutionDirector.Start.Run();
         }
     }
 }
