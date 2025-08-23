@@ -1,11 +1,10 @@
-﻿namespace ch.px.designpattern.Behavioral.Visitor.GoodSolution
+﻿namespace ch.px.designpattern.Behavioral.Visitor.GoodSolution;
+
+internal interface IVisitor
 {
-    internal interface IVisitor
-    {
-        void VisitRetail(RetailClient retailClient);
+    void VisitRetail(RetailClient retailClient);
 
-        void VisitRestaurant(RestaurantClient restaurantClient);
+    void VisitRestaurant(RestaurantClient restaurantClient);
 
-        void VisitLaw(LawClient lawClient);
-    }
+    void VisitLaw(LawClient lawClient);
 }
