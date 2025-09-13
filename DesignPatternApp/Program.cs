@@ -48,7 +48,23 @@ internal class Program
 
         // Iterator pattern - behavioural - Module05
 
-        // Command pattern - behavioural - Module06
+        // --------------------------------------------------
+        // Command Pattern - behavioural
+        // --------------------------------------------------
+
+        // Behavioral.Command.BadSolution.Start.Run();
+        // Behavioral.Command.GoodSolution.Start.Run();
+        // Behavioral.Command.UndoableSolution.Start.Run();
+
+        // --------------------------------------------------
+        // Iterator Pattern - behavioural
+        // --------------------------------------------------
+
+        Behavioral.Iterator.BadSolution.Start.Run();
+        Behavioral.Iterator.GoodSolution.Start.Run();
+
+
+
 
         // --------------------------------------------------
         // Template method Pattern - behavioural
@@ -63,7 +79,7 @@ internal class Program
         // --------------------------------------------------
 
         // Behavioral.ChainOfResponsibilty.BadSolution.Start.Run();
-        Behavioral.ChainOfResponsibilty.GoodSolution.Start.Run();
+        // Behavioral.ChainOfResponsibilty.GoodSolution.Start.Run();
 
         // --------------------------------------------------
         // Visitor Pattern - behavioural
