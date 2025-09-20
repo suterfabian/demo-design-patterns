@@ -60,11 +60,8 @@ internal class Program
         // Iterator Pattern - behavioural
         // --------------------------------------------------
 
-        Behavioral.Iterator.BadSolution.Start.Run();
-        Behavioral.Iterator.GoodSolution.Start.Run();
-
-
-
+        // Behavioral.Iterator.BadSolution.Start.Run();
+        // Behavioral.Iterator.GoodSolution.Start.Run();
 
         // --------------------------------------------------
         // Template method Pattern - behavioural
@@ -172,8 +169,12 @@ internal class Program
         // Creational.FactoryMethod.BadSolution.Start.Run();
         // Creational.FactoryMethod.GoodSolution.Start.Run();
 
+        // --------------------------------------------------
+        // Abstract factory pattern - structural pattern
+        // --------------------------------------------------
 
-
+        // Creational.AbstractFactory.BadSolution.Start.Run();
+        Creational.AbstractFactory.GoodSolution.Start.Run();
 
         // --------------------------------------------------
         // Builder pattern - structural pattern

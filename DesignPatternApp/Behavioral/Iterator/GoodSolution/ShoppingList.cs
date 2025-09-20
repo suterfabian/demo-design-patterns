@@ -4,10 +4,7 @@
     {
         private List<string> _list = [];
 
-        public void Push(string item)
-        {
-            _list.Add(item);
-        }
+        public void Push(string item) => _list.Add(item);
 
         public string Pop()
         {
@@ -16,10 +13,7 @@
             return last;
         }
 
-        public List<string> GetList()
-        {
-            return _list;
-        }
+        public List<string> GetList() => _list;
 
         public IIterator<string> CreateIterator()
         {
