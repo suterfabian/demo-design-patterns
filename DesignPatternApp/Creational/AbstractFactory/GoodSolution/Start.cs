@@ -10,9 +10,9 @@ public static class Start
     {
         Console.WriteLine("Abstract Factory - Good Solution");
 
-        var os = OperationSystemType.Mac;
+        var os = OperationSystemType.Windows;
 
-        IUiComponentFactory? uiComponentFactory = null;
+        IUiComponentFactory uiComponentFactory;
 
         if (os == OperationSystemType.Windows)
         {
@@ -22,10 +22,11 @@ public static class Start
         {
             uiComponentFactory = new MacUiComponentFactory();
         }
-
-        if (uiComponentFactory is not null)
+        else
         {
-            new UserSettingsForm().Render(uiComponentFactory);
+            throw new Exception("Unsupported Operating System");
         }
+
+        new UserSettingsForm().Render(uiComponentFactory);
     }
 }
