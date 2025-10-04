@@ -92,6 +92,13 @@ internal class Program
         // Behavioral.Interpreter.BadSolution.Start.Run();
         // Behavioral.Interpreter.GoodSolution.Start.Run();
 
+        // --------------------------------------------------
+        // Strategy Pattern - behavioural
+        // --------------------------------------------------
+
+        // Behavioral.Strategy.BadSolution.Start.Run();
+        Behavioral.Strategy.GoodSolution.Start.Run();
+
         // ==================================================
         // Structural Patterns
         // ==================================================
@@ -174,7 +181,7 @@ internal class Program
         // --------------------------------------------------
 
         // Creational.AbstractFactory.BadSolution.Start.Run();
-        Creational.AbstractFactory.GoodSolution.Start.Run();
+        // Creational.AbstractFactory.GoodSolution.Start.Run();
 
         // --------------------------------------------------
         // Builder pattern - structural pattern
