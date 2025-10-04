@@ -17,8 +17,8 @@ internal class Program
         // State Pattern - behavioural
         // --------------------------------------------------
 
-        // Behavioral.StatePattern.BadSolution.Start.Run();
-        // Behavioral.StatePattern.GoodSolution.Start.Run();
+        // Behavioral.State.BadSolution.Start.Run();
+        Behavioral.State.GoodSolution.Start.Run();
 
         // --------------------------------------------------
         // Observer Pattern - behavioural
@@ -97,7 +97,7 @@ internal class Program
         // --------------------------------------------------
 
         // Behavioral.Strategy.BadSolution.Start.Run();
-        Behavioral.Strategy.GoodSolution.Start.Run();
+        // Behavioral.Strategy.GoodSolution.Start.Run();
 
         // ==================================================
         // Structural Patterns

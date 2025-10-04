@@ -1,4 +1,4 @@
-﻿namespace ch.px.designpattern.Behavioral.StatePattern.BadSolution;
+﻿namespace ch.px.designpattern.Behavioral.State.GoodSolution;
 
 public enum DocumentStates
 {
