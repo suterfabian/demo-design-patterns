@@ -43,11 +43,6 @@ internal class Program
 
         // Behavioral.Mediator.GoodSolution.Start.Run();
 
-        // Strategy Pattern - behavioural - Module04
-        // 03:00:30
-
-        // Iterator pattern - behavioural - Module05
-
         // --------------------------------------------------
         // Command Pattern - behavioural
         // --------------------------------------------------
